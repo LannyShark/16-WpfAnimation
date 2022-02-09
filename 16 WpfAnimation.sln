@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.1 Animated Eyes", "16 WpfAnimation\16.1 Animated Eyes.csproj", "{47821261-2820-42E2-B4E9-6E861FEC6307}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.2 Bouncing Ball", "16 WpfBouncingBall\16.2 Bouncing Ball.csproj", "{08FE4408-952D-4842-BC8D-3ADBE32DEBD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.2.1 HarderBouncingBall", "16.2.1 HarderBouncingBall\16.2.1 HarderBouncingBall.csproj", "{FF9A6ABE-BCBB-47C3-90AA-0DDCE75F40A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47821261-2820-42E2-B4E9-6E861FEC6307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47821261-2820-42E2-B4E9-6E861FEC6307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47821261-2820-42E2-B4E9-6E861FEC6307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47821261-2820-42E2-B4E9-6E861FEC6307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08FE4408-952D-4842-BC8D-3ADBE32DEBD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08FE4408-952D-4842-BC8D-3ADBE32DEBD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08FE4408-952D-4842-BC8D-3ADBE32DEBD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08FE4408-952D-4842-BC8D-3ADBE32DEBD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF9A6ABE-BCBB-47C3-90AA-0DDCE75F40A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF9A6ABE-BCBB-47C3-90AA-0DDCE75F40A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF9A6ABE-BCBB-47C3-90AA-0DDCE75F40A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF9A6ABE-BCBB-47C3-90AA-0DDCE75F40A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11B5EFFF-54B3-410A-8FA5-7532668852F3}
+	EndGlobalSection
+EndGlobal
